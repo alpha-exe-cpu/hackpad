@@ -73,7 +73,7 @@ Each switch has one side connected to **GND** and the other to a **GPIO pin**.
 
 ## Features
 
-### ✔ Function Key Macros  
+### Function Key Macros  
 Each key sends a unique HID code: **F13–F21**  
 Useful for:
 - Creative apps  
@@ -81,7 +81,7 @@ Useful for:
 - Macro automation  
 - Custom hotkey workflows  
 
-### ✔ OLED Clock  
+### OLED Clock  
 The display shows:
 - **Time** (HH:MM:SS)  
 - **Date** (DD-MM-YYYY)  
