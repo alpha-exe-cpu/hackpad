@@ -33,11 +33,12 @@ SW8-GP29-F14,
 SW9-GP28-F15
 
 --
-Screenshots
---
 Schematic
+--
 <img width="573" height="638" alt="image" src="https://github.com/user-attachments/assets/a47b49d7-2d67-403c-ac3e-a794e1b0890f" />
+
 PCB
+--
 <img width="570" height="664" alt="image" src="https://github.com/user-attachments/assets/c188bbb9-59c8-48ff-8663-1d2b5cbb3f91" />
 
 --
