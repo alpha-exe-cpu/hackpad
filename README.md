@@ -53,6 +53,23 @@ Each switch has one side connected to **GND** and the other to a **GPIO pin**.
 <img width="570" height="664" alt="image" src="https://github.com/user-attachments/assets/c188bbb9-59c8-48ff-8663-1d2b5cbb3f91" />
 
 ---
+## 🕡3D Render (All Components)
+<img width="1109" height="763" alt="image" src="https://github.com/user-attachments/assets/4caf7fa6-c669-4865-8928-d99c0ae51777" />
+
+
+---
+
+## 🕡3D Render (without PCB)
+<img width="1405" height="804" alt="image" src="https://github.com/user-attachments/assets/c8324a09-57c8-48b8-b37a-71c4710b66ba" />
+
+
+---
+## 🕡3D Render (Assembled)
+<img width="1142" height="820" alt="image" src="https://github.com/user-attachments/assets/0c980018-d1f6-49b0-8556-8c7ad8c43799" />
+
+
+
+---
 
 ## ⭐ Features
 
