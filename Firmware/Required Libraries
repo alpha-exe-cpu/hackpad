@@ -1,0 +1,6 @@
+# To be copied to /lib
+kmk/
+adafruit_displayio_ssd1306.mpy
+adafruit_display_text/
+adafruit_displayio_layout/
+adafruit_framebuf.mpy
