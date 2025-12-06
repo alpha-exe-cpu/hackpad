@@ -71,39 +71,8 @@ Each switch has one side connected to **GND** and the other to a **GPIO pin**.
 
 ---
 
-## Features
-
-### Function Key Macros  
-Each key sends a unique HID code: **F13–F21**  
-Useful for:
-- Creative apps  
-- OBS streaming  
-- Macro automation  
-- Custom hotkey workflows  
-
-### OLED Clock  
-The display shows:
-- **Time** (HH:MM:SS)  
-- **Date** (DD-MM-YYYY)  
-
-> KMK doesn't include an internal RTC.  
-> Time is retrieved using CircuitPython’s `time.localtime()` and can be set manually or synced via USB during flashing.
-
----
-
 ## Firmware
 
 The hackpad runs on **KMK Firmware** which is a lightweight Python-based keyboard firmware stored directly on the device’s flash.
-
----
-
-## How to Use
-
-1. Flash **CircuitPython** onto the XIAO RP2040  
-2. Copy required KMK libraries into `CIRCUITPY/lib/`  
-3. Place your `code.py` file in the **root** of `CIRCUITPY/`  
-4. Connect the device to your computer  
-5. Press any switch → Sends its assigned **F-key**  
-6. OLED will automatically display **current time + date**
 
 ---
