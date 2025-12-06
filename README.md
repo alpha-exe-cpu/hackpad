@@ -14,22 +14,22 @@ Components
 Wiring
 OLED
 *Xiao's pins-Display Pins*
-GND-GND
-3V3-VCC
-GPIO26-SCL
+GND-GND,
+3V3-VCC,
+GPIO26-SCL,
 GPIO27-SDA
 -------------------------------------------------
 Switches (One side → GND, other → GPIO)
 *Switch-Xiao's GPIO-FKey*
 -
-SW1-GP1-F19
-SW2-GP2-F20
-SW3-GP4-F21
-SW4-GP3-F16
-SW5-GP0-F17
-SW6-GP7-F18
-SW7-GP6-F13
-SW8-GP29-F14
+SW1-GP1-F19,
+SW2-GP2-F20,
+SW3-GP4-F21,
+SW4-GP3-F16,
+SW5-GP0-F17,
+SW6-GP7-F18,
+SW7-GP6-F13,
+SW8-GP29-F14,
 SW9-GP28-F15
 
 --
