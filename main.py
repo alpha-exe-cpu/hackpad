@@ -25,7 +25,7 @@ display = adafruit_displayio_ssd1306.SSD1306(
     display_bus, width=WIDTH, height=HEIGHT
 )
 
-# Create group for screen
+# Create group for screen-
 splash = displayio.Group()
 display.show(splash)
 
@@ -101,3 +101,4 @@ if __name__ == '__main__':
         if time.monotonic() - last_update > 0.25:
             update_clock()
             last_update = time.monotonic()
+
